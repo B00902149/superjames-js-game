@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-22 -40 44 44" width="44" height="44">
+  <!-- Shadow -->
+  <ellipse cx="0" cy="2" rx="19" ry="3.5" fill="rgba(0,0,0,0.15)"/>
+
+  <!-- Feet -->
+  <ellipse cx="-8" cy="2"  rx="6" ry="4.5" fill="#5c2e0e"/>
+  <ellipse cx="8"  cy="2"  rx="6" ry="4.5" fill="#5c2e0e"/>
+
+  <!-- Body (chocolate bar) -->
+  <rect x="-18" y="-36" width="36" height="36" rx="4" fill="#723c1c"/>
+
+  <!-- Segment lines -->
+  <line x1="-6"  y1="-36" x2="-6"  y2="-2" stroke="#4a2210" stroke-width="1.5"/>
+  <line x1="6"   y1="-36" x2="6"   y2="-2" stroke="#4a2210" stroke-width="1.5"/>
+  <line x1="-18" y1="-24" x2="18"  y2="-24" stroke="#4a2210" stroke-width="1.5"/>
+
+  <!-- Shine highlight -->
+  <rect x="-16" y="-34" width="10" height="8" rx="2" fill="rgba(200,140,80,0.45)"/>
+
+  <!-- Eye whites -->
+  <ellipse cx="-7" cy="-18" rx="4"  ry="4.5" fill="#e8d0b0"/>
+  <ellipse cx="7"  cy="-18" rx="4"  ry="4.5" fill="#e8d0b0"/>
+  <!-- Pupils -->
+  <ellipse cx="-7" cy="-17" rx="2.5" ry="2.5" fill="#141414"/>
+  <ellipse cx="7"  cy="-17" rx="2.5" ry="2.5" fill="#141414"/>
+
+  <!-- Angry eyebrows -->
+  <line x1="-10" y1="-26" x2="-4" y2="-23" stroke="#3a1808" stroke-width="2"/>
+  <line x1="4"   y1="-23" x2="10" y2="-26" stroke="#3a1808" stroke-width="2"/>
+
+  <!-- Mouth (open frown) -->
+  <path d="M -7,-9 A 7,4 0 0 1 7,-9" fill="#4a2210"/>
+</svg>

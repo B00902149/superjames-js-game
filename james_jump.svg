@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-26 -96 52 96" width="52" height="96">
+  <!-- Jump pose — legs tucked, arms up -->
+
+  <!-- Legs tucked up for jump -->
+  <g transform="rotate(-35,-8,-22)">
+    <rect x="-13" y="-22" width="10" height="18" rx="3" fill="#2a3a8c"/>
+    <rect x="-15" y="-6"  width="15" height="9"  rx="4" fill="#d82b2b"/>
+  </g>
+  <g transform="rotate(35,8,-22)">
+    <rect x="3"  y="-22" width="10" height="18" rx="3" fill="#2a3a8c"/>
+    <rect x="1"  y="-6"  width="15" height="9"  rx="4" fill="#d82b2b"/>
+  </g>
+  <!-- Body -->
+  <rect x="-14" y="-46" width="28" height="28" rx="4" fill="#d82b2b"/>
+  <!-- Collar -->
+  <ellipse cx="0" cy="-46" rx="7" ry="4" fill="#ffffff"/>
+  <!-- Arms raised up in jump -->
+  <g transform="rotate(-55,-14,-44)">
+    <rect x="-19" y="-44" width="10" height="20" rx="3" fill="#d82b2b"/>
+    <ellipse cx="-14" cy="-24" rx="6" ry="6" fill="#f2b991"/>
+  </g>
+  <g transform="rotate(55,14,-44)">
+    <rect x="9" y="-44" width="10" height="20" rx="3" fill="#d82b2b"/>
+    <ellipse cx="14" cy="-24" rx="6" ry="6" fill="#f2b991"/>
+  </g>
+  <!-- Neck -->
+  <rect x="-5" y="-54" width="10" height="10" fill="#f2b991"/>
+  <!-- Head -->
+  <ellipse cx="0" cy="-68" rx="19" ry="18" fill="#f2b991"/>
+  <!-- Ears -->
+  <ellipse cx="-19" cy="-66" rx="5" ry="6" fill="#f2b891"/>
+  <ellipse cx="19"  cy="-66" rx="5" ry="6" fill="#f2b891"/>
+  <ellipse cx="-19" cy="-66" rx="3" ry="4" fill="rgba(255,180,150,0.4)"/>
+  <ellipse cx="19"  cy="-66" rx="3" ry="4" fill="rgba(255,180,150,0.4)"/>
+  <!-- Cheek blush -->
+  <ellipse cx="-13" cy="-64" rx="6" ry="4.5" fill="rgba(255,100,100,0.35)"/>
+  <ellipse cx="13"  cy="-64" rx="6" ry="4.5" fill="rgba(255,100,100,0.35)"/>
+  <!-- Hair -->
+  <ellipse cx="-10" cy="-84" rx="9" ry="8"  fill="#ffe14c"/>
+  <ellipse cx="0"   cy="-87" rx="8" ry="7"  fill="#ffe14c"/>
+  <ellipse cx="10"  cy="-84" rx="9" ry="8"  fill="#ffe14c"/>
+  <ellipse cx="-5"  cy="-82" rx="8" ry="6"  fill="#ffe14c"/>
+  <ellipse cx="5"   cy="-82" rx="8" ry="6"  fill="#ffe14c"/>
+  <ellipse cx="-3"  cy="-86" rx="5" ry="4"  fill="rgba(255,240,180,0.6)"/>
+  <!-- Eye whites -->
+  <ellipse cx="-10" cy="-68" rx="6.5" ry="7" fill="#ffffff"/>
+  <ellipse cx="10"  cy="-68" rx="6.5" ry="7" fill="#ffffff"/>
+  <!-- Irises -->
+  <ellipse cx="-10" cy="-67" rx="4.5" ry="5" fill="#2d7ae5"/>
+  <ellipse cx="10"  cy="-67" rx="4.5" ry="5" fill="#2d7ae5"/>
+  <!-- Pupils -->
+  <ellipse cx="-10" cy="-67" rx="2.5" ry="3" fill="#141414"/>
+  <ellipse cx="10"  cy="-67" rx="2.5" ry="3" fill="#141414"/>
+  <!-- Eye shine -->
+  <ellipse cx="-8"  cy="-69" rx="1.5" ry="1.5" fill="#ffffff"/>
+  <ellipse cx="12"  cy="-69" rx="1.5" ry="1.5" fill="#ffffff"/>
+  <!-- Lashes -->
+  <path d="M -16.5,-68 A 6.5,7 0 0 1 -3.5,-68" fill="none" stroke="rgba(0,0,0,0.7)" stroke-width="1"/>
+  <path d="M 3.5,-68 A 6.5,7 0 0 1 16.5,-68"  fill="none" stroke="rgba(0,0,0,0.7)" stroke-width="1"/>
+  <!-- Eyebrows -->
+  <path d="M -18,-75 A 8,4 0 0 1 -2,-75" fill="none" stroke="#d4b83a" stroke-width="2"/>
+  <path d="M 2,-75 A 8,4 0 0 1 18,-75"  fill="none" stroke="#d4b83a" stroke-width="2"/>
+  <!-- Nose -->
+  <ellipse cx="0"  cy="-62" rx="3.5" ry="2.5" fill="#e8a070"/>
+  <ellipse cx="-2" cy="-61" rx="1.5" ry="1"   fill="#d08060"/>
+  <ellipse cx="2"  cy="-61" rx="1.5" ry="1"   fill="#d08060"/>
+  <!-- Smile -->
+  <path d="M -8,-56 A 8,5 0 0 0 8,-56" fill="none" stroke="#c07850" stroke-width="2"/>
+  <rect x="-5" y="-57" width="10" height="4" rx="1" fill="#fafafa"/>
+</svg>

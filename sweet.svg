@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-32 -46 64 50" width="64" height="50">
+
+  <!-- Shadow -->
+  <ellipse cx="0" cy="2" rx="20" ry="4" fill="rgba(0,0,0,0.15)"/>
+
+  <!-- Feet -->
+  <ellipse cx="-9" cy="2" rx="6"  ry="5" fill="#c040a0"/>
+  <ellipse cx="9"  cy="2" rx="6"  ry="5" fill="#c040a0"/>
+
+  <!-- Wrapper twist LEFT -->
+  <ellipse cx="-24" cy="-20" rx="7" ry="13" fill="#c040a0"/>
+  <ellipse cx="-24" cy="-20" rx="4" ry="9"  fill="#d455b8"/>
+
+  <!-- Wrapper twist RIGHT -->
+  <ellipse cx="24"  cy="-20" rx="7" ry="13" fill="#c040a0"/>
+  <ellipse cx="24"  cy="-20" rx="4" ry="9"  fill="#d455b8"/>
+
+  <!-- Main sweet body -->
+  <circle cx="0" cy="-22" r="19" fill="#ea23a8"/>
+
+  <!-- Spiral stripes -->
+  <path d="M -16,-22 A 16,16 0 0 1 11,-34" fill="none" stroke="rgba(255,120,230,0.75)" stroke-width="4"/>
+  <path d="M  16,-22 A 16,16 0 0 1 -5,-10" fill="none" stroke="rgba(255,120,230,0.55)" stroke-width="3"/>
+
+  <!-- Shine -->
+  <ellipse cx="-7" cy="-32" rx="6" ry="4" fill="rgba(255,255,255,0.55)"/>
+
+  <!-- Eye whites -->
+  <ellipse cx="-7" cy="-24" rx="4" ry="4.5" fill="#ffffff"/>
+  <ellipse cx="7"  cy="-24" rx="4" ry="4.5" fill="#ffffff"/>
+  <!-- Irises -->
+  <ellipse cx="-7" cy="-23" rx="2.5" ry="3" fill="#8a1060"/>
+  <ellipse cx="7"  cy="-23" rx="2.5" ry="3" fill="#8a1060"/>
+  <!-- Pupils -->
+  <ellipse cx="-7" cy="-23" rx="1.5" ry="1.5" fill="#141414"/>
+  <ellipse cx="7"  cy="-23" rx="1.5" ry="1.5" fill="#141414"/>
+  <!-- Eye shine -->
+  <ellipse cx="-6" cy="-25" rx="1" ry="1" fill="#ffffff"/>
+  <ellipse cx="8"  cy="-25" rx="1" ry="1" fill="#ffffff"/>
+
+  <!-- Angry brows -->
+  <line x1="-11" y1="-30" x2="-4"  y2="-27" stroke="#8a1060" stroke-width="2"/>
+  <line x1="4"   y1="-27" x2="11"  y2="-30" stroke="#8a1060" stroke-width="2"/>
+
+  <!-- Grumpy mouth -->
+  <line x1="-8" y1="-14" x2="-2" y2="-12" stroke="#8a1060" stroke-width="1.5"/>
+  <line x1="2"  y1="-12" x2="8"  y2="-14" stroke="#8a1060" stroke-width="1.5"/>
+
+</svg>
